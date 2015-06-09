@@ -1,0 +1,11 @@
+exec_cmd.c:
+- exec_cmd_for_multi()
+- exec_cmd()
+- Création de la fonction exe_cmd()
+
+small_utils.c:
+- wait_for_son()
+- free_path_and_args
+
+exec_file.c:
+- fonction wait_for_son() dans small_utils.c
