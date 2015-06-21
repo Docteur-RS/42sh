@@ -1,6 +1,6 @@
 # 42sh
 Epitech : 42sh
 
-Interpréteur de command linux.
+Interpréteur de commandes Linux.
 
 Black Water shell reproduit le comportement de TCSH.
